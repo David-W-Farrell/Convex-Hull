@@ -1,7 +1,7 @@
 # Convex-Hull
 
 Description:
-  This program is designed to find and return the convex hull of a set of given points. The points must be provided using a seperate text file.
+  This program is designed to find and return the convex hull of a set of given points. The points must be provided using a separate text file. 
 
 Requirements: 
   - g++ compiler 
