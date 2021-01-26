@@ -18,5 +18,5 @@ Running the program:
   - command options:
       make: compiles the program.
       make run: runs the program.
-      make clean: deletes the created executable.
+      make clean: deletes the creates executable.
       
